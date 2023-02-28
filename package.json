@@ -6,6 +6,10 @@
         "waves"
     ],
     "author": "Kharazian Aram <aram@waves.tech>",
+    "repository": {
+        "url": "https://github.com/akharazyan/waves-grpc-services",
+        "type": "git"
+    },
     "license": "MIT",
     "type": "module",
     "source": "src/index.ts",
