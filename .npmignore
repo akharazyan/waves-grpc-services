@@ -1,0 +1,10 @@
+.husky
+.parcelrc
+.parcel-cache
+.gitignore
+.prettierrc
+build
+node_modules
+src
+tsconfig.json
+yarn.lock

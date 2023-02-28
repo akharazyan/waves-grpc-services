@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "ES2016",
+        "module": "ES2022",
+        "outDir": "dist",
+        "sourceMap": true,
+        "lib": ["ES2016", "ES2020", "DOM"],
+        "strict": true,
+        "resolveJsonModule": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "skipLibCheck": true,
+        "isolatedModules": true,
+        "skipDefaultLibCheck": true,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node"
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+}
